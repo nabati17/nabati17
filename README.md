@@ -3,6 +3,7 @@
 
 Saya merupakan **Mahasiswa** di [Universitas Bandar Lampung](https://ubl.ac.id/).\
 Saya menyelesaikan pelatihan **Junior Web Developer BPPTIK** pada program [Vocational School Graduate Academy](https://drive.google.com/file/d/1QayHWz-UPCC8wD2pmxNjQDHCiYlnkEgZ/view?usp=share_link).\
+Saya menyelesaikan MBKM Studi Independent sebagai **Pengembang Front-End Web dan Back-End** di  [Dicoding](https://drive.google.com/file/d/1c164gfimxu7UPAqDGzTzXNGrRH-Hx7zH/view?usp=sharing).\
 Saya magang di **Managemen Information System** [Universitas Bandar Lampung](https://ubl.ac.id/).\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/asnabah-naba-76420a222/)ku ya.
  
